@@ -1,0 +1,29 @@
+/* .containal{
+    background-color: red;
+} */
+
+
+.container{
+    background-color: red;
+}
+
+#orange.container{
+    background-color: royalblue;
+}
+
+/* ul > .chi{
+    background-color: aqua;
+} */
+
+div .ci1{
+    background-color: blueviolet;
+}
+
+.cks + div{
+    background-color: azure;
+}
+
+.cks ~ div{
+    background-color: chartreuse;
+}
+
